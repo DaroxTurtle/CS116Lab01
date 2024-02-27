@@ -31,4 +31,7 @@ Features that are included are, <br/>
 &emsp; Incrementing days on how long the pet is within that shelter <br/>
 &emsp; Automated id system within the database <br/>
 
+## Flowchart for Lab
+![Untitled Diagram drawio](https://github.com/DaroxTurtle/CS116Lab01/assets/127773881/8e3445b9-32d8-4b63-a53d-41f35602da0b)
+
 
